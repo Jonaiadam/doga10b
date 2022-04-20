@@ -4,7 +4,6 @@ Ha ezt elolvasod, írd ide a neved és kapsz egy plusz pontot :)
 
 <<<<<<< HEAD
 Igali Marcell Károly ._.
-=======
 Vizkeleti Gergő
 Szijjártó Márton
 Egervári Martin
