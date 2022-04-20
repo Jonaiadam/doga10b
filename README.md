@@ -8,3 +8,4 @@ Szijjártó Márton
 Egervári Martin
 Sarok Viktor
 Németh Krisztián
+Jónai Ádám
