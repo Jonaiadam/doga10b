@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ide írd a neved: Igali Marcell Károly
+=======
+Ide írd a neved:
+Vizkeleti Gergő
+>>>>>>> 6ff59f8d9efcad77704cbba93f405c6e0b04cf5d
