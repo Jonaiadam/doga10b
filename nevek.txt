@@ -2,9 +2,13 @@
 Ide írd a neved: Igali Marcell Károly
 =======
 Ide írd a neved:
+<<<<<<< HEAD
 Vizkeleti Gergő
 <<<<<<< HEAD
 >>>>>>> 6ff59f8d9efcad77704cbba93f405c6e0b04cf5d
 =======
 Egervári Martin
 >>>>>>> 2032edad3d85465b78e84ed17a85dabb0de337b1
+=======
+Petrovics Stefan
+>>>>>>> 8a00bca743714147c1a092a99bb0f512d62dd291
