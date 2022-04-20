@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index 86ff186..57c9a8d 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,3 @@
+-# doga10b
+\ No newline at end of file
++# doga10b
++
++Ha ezt elolvasod, írd ide a neved és kapsz egy plusz pontot :)
