@@ -1,0 +1,6 @@
+Állítsa be a git-ben a saját github felhasználóját!
+1. Klónozza a https://github.com/baloghim/doga10b.git repositoryt a saját helyi repojába!
+2. Nyissa meg a nevek.txt állományt és írja be az utolsó sorába a saját nevét!
+3. Commitolja a változtatást a helyi repo-ba, az üzenet legyen: "Beírtam a nevem."
+4. írassa ki a fenti fájl változtatását az eredetihez képest! A változtatáskor kapott kimenetet másolja egy sajatnev.txt fájlba a helyi repoban és mentse el! Commitolja egy releváns kommenttel ellátva!
+5. Szinkronizálja a változtatásokat a távoli repositoryval!
